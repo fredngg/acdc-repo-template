@@ -101,8 +101,8 @@ local setup, test frameworks, code-quality tooling, and required checks here.
 
 ## 10. Project Identification
 
-- Project name: Architecture Template
-- Repository URL: Pending publication to GitHub
+- Project name: ACDC Repository Template
+- Repository URL: https://github.com/fredngg/acdc-repo-template
 - Primary contact/team: fredngg
 - Date of last update: 2026-07-14
 
