@@ -4,6 +4,15 @@
 > structure, responsibilities, data flow, infrastructure, security posture, or
 > roadmap of the system.
 
+## Template lineage
+
+The core outline is based on the architecture template at
+[Architecture.md](https://architecture.md/). This repository extends it for
+agent-driven delivery by placing the reference in `docs/`, pairing it with
+`docs/product-specs/`, and using `AGENTS.md` to require documentation and
+implementation to remain aligned. Continue to tailor this document to the
+project rather than treating the template as fixed.
+
 ## 1. Project Structure
 
 The repository is currently documentation-first. Application directories are
