@@ -1,0 +1,17 @@
+# Operating system files
+.DS_Store
+
+# Editor settings
+.idea/
+.vscode/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Build and dependency outputs
+node_modules/
+dist/
+build/
+coverage/
